@@ -1,1 +1,1 @@
-export const cloudinary_upload_preset ="mqpfxnzb"
+export const cloudinary_upload_preset ="rocky"
